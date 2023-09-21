@@ -1,0 +1,19 @@
+
+.row {
+    margin: 0; /* Elimina el margen entre filas */
+  }
+  
+  /* Estilo para las columnas dentro de las filas */
+  .row > div[class^="col-"] {
+    border: 1px solid #ccc; /* Bordes de las columnas */
+    padding: 0px; /* Espaciado interno para separar el contenido de los bordes */
+    background-color: #f9f9f9; /* Color de fondo de las columnas */
+    text-align: left; /* Alineación de texto en el centro */
+    margin: 0; /* Elimina el margen entre columnas */
+  }
+  
+  
+  
+  
+  
+  
